@@ -4,7 +4,9 @@ Didn't find any signs of such functionality available natively... which is weird
 
 Anyways, I've taken time and wrote a simple google script to do that for me. For anyone interested feel free to use, copy and modify any way you like:
 
-[script](https://script.google.com/d/1m66gEPsb4YS6cD17Z3u8FkNdpTzQnOB6AaNvSv26PoHxWzDm8RxX14j5/edit?usp=sharing)
+* [Google Drive](https://script.google.com/d/1m66gEPsb4YS6cD17Z3u8FkNdpTzQnOB6AaNvSv26PoHxWzDm8RxX14j5/edit?usp=sharing)
+
+* [Raw Sources](https://github.com/diraven/youtube-auto-watch-later/blob/master/script.js) (you will have to copy-paste sources into your google drive script editor)
 
 In order for this to work you need to:
 
