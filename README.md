@@ -44,6 +44,4 @@ The script is free to use/modify/extend.
 
 If you still like to express your gratitude - there is http://donate.diraven.com/ . =)
 
-Thanks.
-
 Thanks and good luck. =)
