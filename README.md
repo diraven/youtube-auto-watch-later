@@ -40,4 +40,10 @@ If there are any problems or unexpected behavior do the following:
 
 If there are any questions/proposals/improvements/bugs - feel free to leave a comment.
 
+The script is free to use/modify/extend.
+
+If you still like to express your gratitude - there is http://donate.diraven.com/ . =)
+
+Thanks.
+
 Thanks and good luck. =)
