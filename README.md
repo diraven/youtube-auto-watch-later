@@ -1,4 +1,4 @@
-WARNING: Not functional any more. Reason: https://support.google.com/youtube/thread/63269933?hl=en
+**WARNING: Not functional any more. Reason: https://support.google.com/youtube/thread/63269933?hl=en**
 
 The script automatically adds videos from all your YouTube subscriptions into your watch later list. 
 
